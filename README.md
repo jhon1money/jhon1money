@@ -49,7 +49,7 @@ I specialize in backend development while also creating clean and interactive fr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=jhon1money&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -67,7 +67,7 @@ I specialize in backend development while also creating clean and interactive fr
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jhonanthonyjimenez568@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
