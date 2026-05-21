@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">GREETINGS, I am JHON. a seasoned software developer specializing in backend development. With three years of dedicated study and hands-on experience, I've cultivated expertise in Python, HTML, CSS, JavaScript, and SQL. Collaborating within dynamic teams, I've contributed to the successful delivery of high-level academic projects, including a comprehensive task management system and an online learning platform. Committed to continual growth, I aspire to leverage my skills to drive innovation and make meaningful contributions to society.</h2>
 
 ###
 
