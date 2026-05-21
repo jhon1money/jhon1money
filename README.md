@@ -1,11 +1,8 @@
-<h5 align="left">GREETINGS, I am JHON. a seasoned software developer specializing in backend development. With three years of dedicated study and hands-on experience, I've cultivated expertise in Python, HTML, CSS, JavaScript, and SQL. Collaborating within dynamic teams, I've contributed to the successful delivery of high-level academic projects, including a comprehensive task management system and an online learning platform. Committed to continual growth, I aspire to leverage my skills to drive innovation and make meaningful contributions to society.</h5>
+<h5 align="left">GREETINGS, I am JHON. a seasoned software developer specializing in backend development. With four years of dedicated study and hands-on experience, I've cultivated expertise in Python, React, CSS, JavaScript, and SQL. Collaborating within dynamic teams, I've contributed to the successful delivery of high-level academic projects, including a comprehensive task management system and an online learning platform. Committed to continual growth, I aspire to leverage my skills to drive innovation and make meaningful contributions to society.</h5>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -44,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg](https://app.lottiefiles.com/share/c9e110fb-cab0-4f12-b289-eac7c5aa26ea" alt="code animation" />
 
 ###
