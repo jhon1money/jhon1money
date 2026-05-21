@@ -1,6 +1,6 @@
 <h1>I am Jhon</h1>
 
-<h5 align="left">a seasoned software developer specializing in backend development. With four years of dedicated study and hands-on experience, I've cultivated expertise in Python, React, CSS, JavaScript, and SQL. Collaborating within dynamic teams, I've contributed to the successful delivery of high-level academic projects, including a comprehensive task management system and an online learning platform. Committed to continual growth, I aspire to leverage my skills to drive innovation and make meaningful contributions to society.</h5>
+<h3 align="left">a seasoned software developer specializing in backend development. With four years of dedicated study and hands-on experience, I've cultivated expertise in Python, React, CSS, JavaScript, and SQL. Collaborating within dynamic teams, I've contributed to the successful delivery of high-level academic projects, including a comprehensive task management system and an online learning platform. Committed to continual growth, I aspire to leverage my skills to drive innovation and make meaningful contributions to society.</h3>
 
 
 
