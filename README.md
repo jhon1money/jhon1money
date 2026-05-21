@@ -37,9 +37,13 @@ I specialize in backend development while also creating clean and interactive fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhon1money&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="780" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhon1money&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon1money&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<br><br>
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhon1money&theme=tokyonight" />
+
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhon1money&theme=tokyonight" />
 
 </div>
 
