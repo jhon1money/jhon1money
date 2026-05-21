@@ -27,7 +27,7 @@ I specialize in backend development while also creating clean and interactive fr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,cs,html,css,tailwind,mysql,sqlite,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,cs,html,css,tailwind,mysql,sqlite,git,github,vscode,figma,TensorFlow" />
 
 </div>
 
@@ -90,3 +90,4 @@ Building impactful software experiences
 Learning advanced backend architecture
 Improving UI/UX design skills
 Growing as a software engineer
+✨ “Code with purpose. Build with elegance.”
