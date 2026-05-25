@@ -6,10 +6,10 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 Passionate software developer focused on building scalable, modern, and elegant digital experiences.  
 I specialize in backend development while also creating clean and interactive frontends using modern technologies.
-</h3>
+</h2>
 
 ---
 
