@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="left">
+<h2 align="center">
 Passionate software developer focused on building scalable, modern, and elegant digital experiences.  
 I specialize in backend development while also creating clean and interactive frontends using modern technologies.
 </h2>
@@ -35,7 +35,7 @@ I specialize in backend development while also creating clean and interactive fr
 
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
 
 <img width="780" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhon1money&theme=tokyonight" />
 
